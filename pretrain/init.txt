@@ -1,0 +1,2 @@
+Put inside here the pretrained weights (download them from: https://drive.google.com/drive/folders/1QK8jkOtCrRkQqVzSdhlEG9ikNWxL36rK?usp=drive_link, or trained in the pretraining phase).
+Name the: "CSRNet_AfricaWildlife_final.pth"
