@@ -11,7 +11,7 @@ from torchvision import transforms
 from torch.optim.lr_scheduler import CosineAnnealingLR
 #import torch.nn.functional as F
 from CSRNet import CSRNet
-from Utils.load_dataset import ClassDataset
+from Utils.load_dataset_AfricaWL import ClassDataset
 from Utils.custom_round import custom_round
 
 os.environ["MKL_THREADING_LAYER"] = "GNU"
